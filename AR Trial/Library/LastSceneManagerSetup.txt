@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/3DRotationalDisplay.unity
+  isLoaded: 1
+  isActive: 1
